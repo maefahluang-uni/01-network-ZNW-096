@@ -21,7 +21,7 @@ The `MockWebServer` in package `th.mfu` serves the web server in our system. It 
 5. Study the code in `main()` and tell me What it does?
 ```
  write your through here.
-```
+starts the two ports and then closes
 6. Run the `main()`, point the web browser to `http://localhost:8080` and `http://localhost:8081`
 It should shows a simple HTML with the word such as  `Hello, Web! on Port 8080`.
 
